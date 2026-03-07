@@ -1,0 +1,64 @@
+{
+  "version": 1,
+  "base_track": "花に雨を、君に歌を",
+  "base_artist": "THE BINARY",
+  "createdAt": "2026-03-07T05:16:45.330415Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "花に雨を、君に歌を",
+      "artist": "THE BINARY",
+      "has_synced": true,
+      "path": "select/01_花に雨を、君に歌を_THE_BINARY.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "花に雨を、君に歌を",
+      "artist": "The Binary",
+      "has_synced": false,
+      "path": "select/02_花に雨を、君に歌を_The_Binary.txt"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "花に雨を、君に歌を",
+      "artist": "ユリイ・カノン",
+      "has_synced": false,
+      "path": "select/03_花に雨を、君に歌を_ユリイ・カノン.txt"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "花に雨を、君に歌を",
+      "artist": "THE BINARY",
+      "has_synced": true,
+      "path": "select/04_花に雨を、君に歌を_THE_BINARY.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "花に雨を、君に歌を",
+      "artist": "Various",
+      "has_synced": false,
+      "path": "select/05_花に雨を、君に歌を_Various.txt"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "花に雨を、君に歌を [Off Vocal]",
+      "artist": "THE BINARY",
+      "has_synced": true,
+      "path": "select/06_花に雨を、君に歌を_[Off_Vocal]_THE_BINARY.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "花に雨を、君に歌を",
+      "artist": "THE BINARY",
+      "has_synced": false,
+      "path": "select/pl_01_花に雨を、君に歌を_THE_BINARY.txt"
+    }
+  ]
+}
